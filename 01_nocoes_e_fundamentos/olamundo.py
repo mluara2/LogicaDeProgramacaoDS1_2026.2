@@ -1,2 +1,7 @@
 print("Maria Luara")
-print ("Ola Mundo!")
+print ("Ola Mundo")
+nome=input("qual seu nome")
+dia=input("que dia voce nasceu")
+mes=input("em que mes voce nasceu")
+ano=input("em que ano voce nasceu")
+print("f"seu nome é {nome}" voce nasceu {dia}/{mes}/{ano}")
