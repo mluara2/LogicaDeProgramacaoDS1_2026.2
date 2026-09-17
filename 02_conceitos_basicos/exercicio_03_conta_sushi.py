@@ -10,3 +10,7 @@ Crie um programa que:
 """
 
 # TODO: Desenvolva o algoritmo abaixo:
+total_consumido = float(input("digite o valor total"))
+taxa = float(total_consumido / 10)
+conta_final = taxa + total_consumido
+print(f"sua conta é{conta_final}")
